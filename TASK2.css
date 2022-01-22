@@ -1,0 +1,28 @@
+img { height: 200px; width: 200px;  border-radius: 50%; }
+img {
+  border: 5px solid rgb(108, 8, 240);
+}
+
+body {
+  background-image: url("https://png.pngtree.com/background/20210712/original/pngtree-abstract-modern-neon-frame-background-picture-image_1178251.jpg");
+  background-color: #cccccc;
+  text-align: center;
+ }
+.checked {color: crimson;}
+  table, th, td {
+    border: 1px solid #1d05f0;
+  }
+  table{
+    font-family: cursive ;
+  }
+.card {
+  background-color: white;
+  border-radius: 20px;
+  border-width: 40px;
+border-color: rgb(6, 245, 26);
+font-family: 'Neonderthaw', cursive;;
+margin: 40px;
+    background-image: -o-linear-gradient(down, #FFFFFF, rgb(255, 122, 89));}
+    .left{float: left;
+    width: 50%;}
+  .skill {text-align: center;}
